@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Flutter Developer</strong> · Offline-First Business Apps · Arabic RTL<br>
-  <sub>Benghazi, Libya</sub>
+  <sub> Libya </sub>
 </p>
 
 <p align="center">
