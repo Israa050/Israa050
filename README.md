@@ -15,8 +15,8 @@
   <a href="https://t.me/ISRA_ESSA">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-23305C?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://khamsat.com/user/israa_essa_tech">
+    <img src="https://img.shields.io/badge/Hire_me-Khamsat-F5A524?style=flat-square" alt="Hire me on Khamsat" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ The choices below are documented in the repositories themselves — I write down
 
 Extending **Money Log** into a full offline-first ledger — relational categories and accounts via real Drift migrations, with `bloc_test` and `mocktail` coverage across the write paths.
 
-Writing about Flutter architecture in Arabic on [LinkedIn](LINKEDIN_URL_HERE) — reactive streams, state modelling, and the decisions behind them.
+Writing about Flutter architecture in Arabic on [LinkedIn](https://www.linkedin.com/in/israa-essa-3b5644384) — reactive streams, state modelling, and the decisions behind them.
 
 ---
 
