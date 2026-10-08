@@ -21,11 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/money-log-transactions.jpg" alt="Money Log — transaction list with live balance summary" width="215" />
+  <img src="assets/money-log-hero-wide.png" alt="Money Log — transaction list with live balance summary" width="1000" />
   &nbsp;
-  <img src="assets/money-log-add.jpg" alt="Money Log — add transaction sheet" width="215" />
-  &nbsp;
-  <img src="assets/money-log-empty.jpg" alt="Money Log — empty state" width="215" />
 </p>
 
 <p align="center">
