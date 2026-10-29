@@ -43,7 +43,7 @@ I work in both **Arabic and English**, and give real attention to RTL correctnes
 
 | Project | What it demonstrates | Stack |
 | :--- | :--- | :--- |
-| **[Money Log](https://github.com/Israa050/money-log)** | Fully reactive architecture — every screen driven by a live database stream, no manual refresh anywhere. Optimistic delete with a countdown undo. | Bloc · Drift · get_it · CI |
+| **[Daftar](https://github.com/Israa050/money-log)** | Fully reactive architecture — every screen driven by a live database stream, no manual refresh anywhere. Optimistic delete with a countdown undo. | Bloc · Drift · get_it · CI |
 | **[Sabil](https://github.com/Israa050/Sabil)** | Fintech MVP: phone/OTP auth, AI-assisted KYC face verification, real-time credit scoring, Arabic RTL-first UI. | Cubit · Dio · go_router |
 | **[Pets Finder](https://github.com/Israa050/Pets-Finder)** | Clean Architecture end to end, with unit, widget, and integration test coverage. | Cubit · Dio · Clean Arch |
 | **[Flutter Core Utils](https://github.com/Israa050/Flutter-Core-Utils)** | Reusable core module consumed as a git submodule — shared configs and architecture to bootstrap projects consistently. | Dart · Architecture |
